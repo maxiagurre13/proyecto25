@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+
+    padding: 0;
+
+    list-style: none;
+
+    box-sizing: border-box;
+
+   
+
+}
+
+.body{
+
+    background-image: url(../img/fondo.png);
+
+    background-position: center center;
+
+    background-attachment: fixed;
+
+    background-size: cover;
+
+}
+
+.top{
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    flex-direction: column;
+
+
+}
+
+.title{
+
+    text-transform: uppercase;
+
+    text-align: center;
+
+    font-family: 'Press Start 2P', cursive;
+
+
+}
+
+div{
+
+    color: aliceblue;
+
+}
+
+.cajeros{
+
+    display: flex;
+
+    flex-grow: initial;
+
+    justify-content: center;
+
+    align-items: center;
+
+    margin-top: 3%;
+    
+}
+
+
+
+.wasa{
+
+    margin-right: 10%;
+
+    margin-left: 10%;
+}
+
+
+
+
